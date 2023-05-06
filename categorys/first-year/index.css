@@ -1,0 +1,10 @@
+body{
+  background-image: url(img/Background.jpeg);
+  background-size: cover;
+  background-attachment: fixed; 
+}
+
+h2{
+  margin-left: 40px;
+  color: darkblue;
+}
