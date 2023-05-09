@@ -58,7 +58,7 @@ background-color: #cacaca;
 
 .box{
   width: 320px;
-  height: 1300px;
+  height: 1150px;
   margin-left: 25px;
   border-radius: 40px;
   background: linear-gradient(315deg, #cacaca, #f0f0f0);
@@ -313,6 +313,21 @@ background-color: #cacaca;
 
 .btn17{
   margin-left: 50px;
+  width: 190px;
+  height: 50px;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  border: 1px solid white;
+  border-radius: 20px;
+  white-space: nowrap;
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow:  5px 5px 11px #bebebe,
+              ▏-5px -5px 11px #ffffff;
+}
+
+.btn18{
+  margin-left: 90px;
   width: 190px;
   height: 50px;
   color: black;
