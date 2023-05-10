@@ -1,0 +1,15 @@
+body{
+  background-image: url(videoback.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.head{
+  color: cyan;
+  margin-left: 20px;
+  white-space: nowrap;
+}
+
+.video{
+  margin-top: 140px;
+}
